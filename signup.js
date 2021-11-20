@@ -1,3 +1,4 @@
+// jsfile for signup form validation
 let email = document.getElementById("inputEmail");
 let mailerror = document.getElementById("errormail");
 let num = document.getElementById("inputNumber");

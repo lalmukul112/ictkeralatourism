@@ -1,4 +1,4 @@
-
+// jsfile for login validation
 let email = document.getElementById("inputEmail");
 let pass = document.getElementById("inputPassword");
 let error = document.getElementById("error");
